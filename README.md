@@ -1,2 +1,2 @@
 # BluThumb.io
-![portfolio-preview](https://github.com/BrandonKenter/BluThumb.io/blob/main/bluthumb-preview.png)
+![portfolio-preview](https://github.com/BrandonKenter/BluThumb.io/blob/main/bluthumb-preview2.png)
