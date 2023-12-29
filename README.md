@@ -18,8 +18,6 @@ BluThumb.io hosts a curated list of 300 problems aptly named BluThumb 300. This 
 
 To see this breakdown on BluThumb.io, [click here.](https://bluthumb.io/patterns)
 
-Open the README.md file to see all 300 problems.
-
 ## Contributing
 
 In the near future I will be setting up a way for users of BluThumb.io to contribute to BluThumb.io by adding/updating concepts and solutions. 
