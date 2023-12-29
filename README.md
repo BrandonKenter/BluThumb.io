@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://example.com/">
-    <img src="https://github.com/BrandonKenter/BluThumb.io/blob/main/logo.png" alt="Logo" width=135 height=30>
+    <img src="https://github.com/BrandonKenter/BluThumb.io/blob/main/logo.png" alt="Logo" width=243 height=51>
   </a>
   <p align="center">
     A place that facilitates reviewing LeetCode problems with spaced repetition.
