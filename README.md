@@ -20,7 +20,7 @@ To see this breakdown on BluThumb.io, [click here.](https://bluthumb.io/patterns
 
 ## Contributing
 
-In the near future I will be setting up a way for users of BluThumb.io to contribute to BluThumb.io by adding/updating concepts and solutions. 
+In the near future I will be setting up a way for users of BluThumb.io to contribute by adding/updating concepts and solutions. 
 
 ## Table of contents
 
