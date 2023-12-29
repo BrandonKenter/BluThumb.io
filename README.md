@@ -1,7 +1,7 @@
 <p align="center">
   <h3 align="center">BluThumb.io</h1>
 
-  <p align="center">
+  <p align="center" width="32">
     A place that facilitates reviewing LeetCode problems with spaced repetition by making it easier to tag and track the problems you care about. 
     <br>
   </p>
