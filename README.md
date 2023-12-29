@@ -26,20 +26,20 @@ In the near future I will be setting up a way for users of BluThumb.io to contri
 
 - [Tree](#Tree)
 - [Backtracking](#Backtracking)
-- [Binary Search](#Binary Search)
+- [Binary Search](#Binary-Search)
 - [Heap](#Heap)
-- [Counting Sort](#Counting Sort)
-- [Linked List](#Linked List)
-- [Sliding Window](#Sliding Window)
+- [Counting Sort](#Counting-Sort)
+- [Linked List](#Linked-List)
+- [Sliding Window](#Sliding-Window)
 - [Matrix](#Matrix)
 - [Math](#Math)
 - [String](#String)
 - [Stack](#Stack)
 - [Array](#Array)
 - [Graph](#Graph)
-- [Disjoint Set](#Disjoint Set)
-- [Dynamic Programming](#Dynamic Programming)
-- [Bit Manipulation](#Bit Manipulation)
+- [Disjoint Set](#Disjoint-Set)
+- [Dynamic Programming](#Dynamic-Programming)
+- [Bit Manipulation](#Bit-Manipulation)
 
 
 
