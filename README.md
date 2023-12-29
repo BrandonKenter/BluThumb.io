@@ -1,7 +1,8 @@
 <p align="center">
+    <h3 align="center">BluThumb.io</h3>
     <a href="https://example.com/">
     <img src="https://github.com/BrandonKenter/BluThumb.io/blob/main/favicon-32x32.png" alt="Logo" width=32 height=32>
-  </a>
+      </a>
   <p align="center">
     A place that facilitates reviewing LeetCode problems with spaced repetition.
     <br>
