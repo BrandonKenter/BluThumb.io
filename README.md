@@ -1,5 +1,4 @@
 <p align="center">
-    
     <a href="https://example.com/">
     <img src="https://github.com/BrandonKenter/BluThumb.io/blob/main/favicon-32x32.png" alt="Logo" width=32 height=32>
   </a>
