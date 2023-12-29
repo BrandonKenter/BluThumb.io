@@ -1,6 +1,6 @@
 <p align="center">
-    <h3 align="center">BluThumb.io     
- </h3>
+    <h5 align="center">BluThumb.io     
+ </h5>
 
   <p align="center">
     An all-in-one platform that facilitates reviewing LeetCode problems with spaced repetition.
