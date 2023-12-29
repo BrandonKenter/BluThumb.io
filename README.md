@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://example.com/">
-    <img src="https://github.com/BrandonKenter/BluThumb.io/blob/main/logo.png" alt="Logo" width=72 height=72>
+    <img src="https://github.com/BrandonKenter/BluThumb.io/blob/main/logo.png" alt="Logo" width=135 height=30>
   </a>
   <h3 align="center">BluThumb.io</h1>
 
