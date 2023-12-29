@@ -1,9 +1,13 @@
 <p align="center">
+    <a href="https://example.com/">
+    <img src="https://github.com/BrandonKenter/BluThumb.io/blob/main/logo.png" alt="Logo" width=72 height=72>
+  </a>
   <h3 align="center">BluThumb.io</h1>
 
   <p align="center">
-    A place that facilitates reviewing LeetCode problems with spaced repetition by making it easier to tag and track the problems you care about. 
+    A place that facilitates reviewing LeetCode problems with spaced repetition.
     <br>
+    <a href="https://bluthumb.io/"><strong>Try it now »</strong></a>
   </p>
 </p>
 
