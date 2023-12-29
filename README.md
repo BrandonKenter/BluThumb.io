@@ -18,6 +18,16 @@ BluThumb.io hosts a curated list of 300 problems called BluThumb 300. This list 
 
 Open the README.md file to see all 300 problems.
 
+## Contributing
+
+In the near future I will be setting up a way for users of BluThumb.io to contribute to BluThumb.io by adding/updating concepts and solutions. 
+
+## Table of contents
+
+- [Tree](#Tree)
+
+
+
 ## Tree
 
 |Pre-order Traversal                                                              |:lemon:|                                                                                                                                                                                           |                                                                                                                                                                                                                                                      |                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                            |
