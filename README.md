@@ -5,7 +5,7 @@
   <p align="center">
     A place that facilitates reviewing LeetCode problems with spaced repetition.
     <br>
-    <a href="https://bluthumb.io/"><strong>Try it now »</strong></a>
+    <a href="https://bluthumb.io/"><strong>Check it out here »</strong></a>
   </p>
 </p>
 
