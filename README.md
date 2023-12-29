@@ -1,7 +1,6 @@
 <p align="center">
     
     <a href="https://example.com/">
-    <h3 >BluThumb.io</h3>
     <img src="https://github.com/BrandonKenter/BluThumb.io/blob/main/favicon-32x32.png" alt="Logo" width=32 height=32>
   </a>
   <p align="center">
