@@ -14,9 +14,9 @@
 
 ## The purpose of this repo
 
-BluThumb.io hosts a curated list of 300 problems called BluThumb 300. This list of problems was selected from a collection of notes I wrote for over 1000 LeetCode problems. As abundantly described on BluThumb.io, breaking down the common patterns into subpatterns allows us to create a better mental model for seeing new problems, identifying possible approaches, and arriving at a solution. Below is a breakdown of all the problems in BluThumb 300, with some notes accompanying most problems.
+BluThumb.io hosts a curated list of 300 problems called BluThumb 300. This list of problems was selected from a collection of notes I wrote for over 1000 LeetCode problems. As abundantly described on BluThumb.io, breaking down the common patterns into subpatterns allows us to create a better mental model for seeing new problems, identifying possible approaches, and arriving at a solution. Below is a breakdown of all the problems in BluThumb 300, with some notes accompanying most of them.
 
-Click the README.md to see all 300 problems.
+Open the README.md file to see all 300 problems.
 
 ## Tree
 
