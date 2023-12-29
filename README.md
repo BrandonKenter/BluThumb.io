@@ -23,7 +23,6 @@ To see this breakdown on BluThumb.io, [click here.](https://bluthumb.io/patterns
 In the near future I will be setting up a way for users of BluThumb.io to contribute in the following ways:
 - Adding/updating problem concepts
 - Adding/updating problem solutions (Python, C, C++, C#, Java, JavaScript, TypeScript)
-- Suggesting changes the the patterns/subpatterns breakdown
 
 ## Table of contents
 
