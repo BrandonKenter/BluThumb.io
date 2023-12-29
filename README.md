@@ -9,7 +9,7 @@
   </p>
 </p>
 
-![portfolio-preview](https://github.com/BrandonKenter/BluThumb.io/blob/main/bluthumb-preview2.png)
+![portfolio-preview](https://github.com/BrandonKenter/BluThumb.io/blob/main/bluthumb-preview.png)
 
 
 ## The purpose of this repo
@@ -40,8 +40,6 @@ In the near future I will be setting up a way for users of BluThumb.io to contri
 - [Disjoint Set](#Disjoint-Set)
 - [Dynamic Programming](#Dynamic-Programming)
 - [Bit Manipulation](#Bit-Manipulation)
-
-
 
 
 ## Tree
