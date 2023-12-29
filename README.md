@@ -3,7 +3,7 @@
  </h3>
 
   <p align="center">
-    An all-in-one tool that facilitates reviewing LeetCode problems with spaced repetition.
+    An all-in-one platform that facilitates reviewing LeetCode problems with spaced repetition.
     <br>
     <a href="https://bluthumb.io/"><strong>Check it out here »</strong></a>
   </p>
